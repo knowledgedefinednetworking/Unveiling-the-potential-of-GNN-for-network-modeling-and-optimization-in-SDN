@@ -1,6 +1,7 @@
 # Unveiling the potential of GNN for network modeling and optimization in SDN
 
-#### K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio, accepted for ACM Symposium on SDN Research (SOSR), April 2019, San Jose, CA, USA.
+#### K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio.
+<!---, accepted for ACM Symposium on SDN Research (SOSR), April 2019, San Jose, CA, USA--->
 
 #### Link to paper: [arXiv:1901.08113](https://arxiv.org/abs/1901.08113).
 
