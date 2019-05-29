@@ -7,3 +7,7 @@ Datasets can be downloaded from these links:
 * GEANT2 topology: http://knowledgedefinednetworking.org/data/geant2.zip
 * GBN topology: http://knowledgedefinednetworking.org/data/GBN.zip  
   (The last two datasets were used only for evaluation)
+  
+ Also, we provide a detailed description of the datasets [here](http://knowledgedefinednetworking.org/data/README_gnn.pdf).
+ 
+ 
