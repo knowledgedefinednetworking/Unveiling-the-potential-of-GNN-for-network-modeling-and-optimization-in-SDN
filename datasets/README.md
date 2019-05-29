@@ -10,4 +10,4 @@ Datasets can be downloaded from these links:
   
  Also, we provide a detailed description of the datasets [here](http://knowledgedefinednetworking.org/data/README_gnn.pdf).
  
-Please, if you have any doubt on how to process the datasets do not hesitate to contact us by sending an email to kdn-contactus@knowledgedefinednetworking.org.
+Please, if you have any doubt on how to process the datasets do not hesitate to contact us by sending an email to kdn-contactus@knowledgedefinednetworking.org
