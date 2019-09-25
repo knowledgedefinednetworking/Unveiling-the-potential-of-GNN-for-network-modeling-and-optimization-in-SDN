@@ -3,7 +3,9 @@
 #### K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio.
 Proceedings of the 2019 ACM Symposium on SDN Research (SOSR), pp. 140-151, San Jose, USA, April 2019. 
 
-Link to paper: [arXiv:1901.08113](https://arxiv.org/abs/1901.08113).
+Link to paper: [[Proceedings of ACM SOSR](https://dl.acm.org/citation.cfm?id=3314357)]
+
+ArXiv version: [[arXiv:1901.08113](https://arxiv.org/abs/1901.08113)]
 
 #### Citation
 You can cite this paper as follows:
