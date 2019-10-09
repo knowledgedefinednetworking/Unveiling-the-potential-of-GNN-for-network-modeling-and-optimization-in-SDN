@@ -1,4 +1,4 @@
-# Unveiling the potential of GNN for network modeling and optimization in SDN
+# Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN
 
 #### K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio.
 Proceedings of the 2019 ACM Symposium on SDN Research (SOSR), pp. 140-151, San Jose, USA, April 2019. 
@@ -12,7 +12,7 @@ You can cite this paper as follows:
 
 ```
 @inproceedings{gnnnetworks,
-  title={Unveiling the potential of {GNN} for network modeling and optimization in {SDN}},
+  title={Unveiling the potential of Graph Neural Networks for network modeling and optimization in {SDN}},
   author={Rusek, Krzysztof and Su\'arez-Varela, Jos\'e and Mestres, Albert and Barlet-Ros, Pere and Cabellos-Aparicio, Albert},
   booktitle={Proceedings of the ACM Symposium on SDN Research (SOSR)},
   pages={140-151},
