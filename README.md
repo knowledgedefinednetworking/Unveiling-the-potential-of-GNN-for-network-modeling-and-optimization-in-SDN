@@ -5,7 +5,7 @@ Proceedings of the 2019 ACM Symposium on SDN Research (SOSR), pp. 140-151, San J
 
 Link to paper: [[Proceedings of ACM SOSR](https://dl.acm.org/citation.cfm?id=3314357)]
 
-Preliminary version at ArXiv: [[arXiv:1901.08113](https://arxiv.org/abs/1901.08113)]
+Link at ArXiv: [[arXiv:1901.08113](https://arxiv.org/abs/1901.08113)]
 
 #### Citation
 You can cite this paper as follows:
