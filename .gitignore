@@ -1,1 +1,6 @@
 cmpt815_env/*
+datasets/nsfnetbw/*
+datasets/geant2bw/*
+datasets/synth50bw/*
+datasets/*.tar.gz
+*/CheckPoints/*
