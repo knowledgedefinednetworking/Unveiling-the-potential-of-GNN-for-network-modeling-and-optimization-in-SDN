@@ -10,5 +10,6 @@ Datasets can be downloaded from these links:
   
  Also, we provide a detailed description of the datasets [here](http://knowledgedefinednetworking.org/data/README_gnn.pdf).
  
-Please, if you have any doubt on how to process the datasets do not hesitate to contact us by sending an email to \
-kdn-users@knowledgedefinednetworking.org. Also, you can subscribe to this mailing list to follow up discussions about papers related to KDN (Link: https://mail.knowledgedefinednetworking.org/cgi-bin/mailman/listinfo/kdn-users).
+If you have any doubts, or you want to discuss anything related to the data sets, you can subscribe and send an email to the mailing list kdn-users@knowledgedefinednetworking.org (Link: https://mail.knowledgedefinednetworking.org/cgi-bin/mailman/listinfo/kdn-users). New data set releases are also notified through this mailing list.
+  
+If you want to contact our team for any other reason, please send an email to kdn-contactus@knowledgedefinednetworking.org
